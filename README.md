@@ -1,2 +1,1 @@
 Es un proyecto personal, como tarea de la universidad, nos enviaron hacer un portafolio a una empresa que queremos realizar un futuro o que tenemos en mente.
-cuenta con solo HTML, a futuro se puede mejorar, claro está, en tema de base de datos, js, etc. En contexto, la página cuenta con los diversos apartados de lo que ofrece, como pulseras, anillos, collares y tobilleras. Sin embargo, es solo un comienzo para mi, realizar este portafolio como practicas.	
